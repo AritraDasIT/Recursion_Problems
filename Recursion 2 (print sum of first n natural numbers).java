@@ -10,7 +10,7 @@ public class Main
 	        return ;
 	    }
 	    
-	    
+	     
 	    sum+=i;
 	    PrintSum(i+1,n,sum);
 	}
